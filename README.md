@@ -1,6 +1,6 @@
 # HW Monitor
 
-A live hardware monitor for Linux. It shows you what your computer is doing right now: how hot the processor is, how hard the graphics card is working, how fast a drive is reading, how much power the CPU is using, and much more, all in one window.
+A live hardware monitor for Linux made on Claude Sonnet 5.5 completely free (I'm not a coder at all but really wanted an app like HWiNFO for Linux). It shows you what your computer is doing right now: how hot the processor is, how hard the graphics card is working, how fast a drive is reading, how much power the CPU is using, and much more, all in one window.
 
 It is built with Qt 6, the same toolkit KDE Plasma uses, so it matches your desktop theme, colors, fonts and accent color automatically, and follows along if you change them while it's running.
 
