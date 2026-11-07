@@ -6,9 +6,14 @@ It is built with Qt 6, the same toolkit KDE Plasma uses, so it matches your desk
 
 > **Not affiliated with HWiNFO.** This project is inspired by monitoring tools like HWiNFO on Windows, but it is a separate program and shares no code with it.
 
-<!-- Add a screenshot here. Take one of the main window, save it in this folder as screenshot.png, and uncomment the next line:
-![HW Monitor main window](screenshot.png)
--->
+<img width="2560" height="1395" alt="HW Monitor 1" src="https://github.com/user-attachments/assets/47789158-0159-45c8-a877-857c2b3e0120" />
+
+<img width="2557" height="1390" alt="HW Monitor 2" src="https://github.com/user-attachments/assets/83a98413-b86a-40a2-8663-7acf855bd242" />
+
+<img width="2560" height="1394" alt="HW Monitor 3" src="https://github.com/user-attachments/assets/f1028a4c-e3c9-4b55-bee5-ab54667f9f12" />
+
+<img width="2560" height="1391" alt="HW Monitor 4" src="https://github.com/user-attachments/assets/41e2a421-a357-4302-ab98-0937670e8514" />
+
 
 ## What it does
 
